@@ -62,7 +62,7 @@ inquirer.prompt(questions).then((answers) =>{
         y = 145;
     }
 
-    const svg = `<svg xmls="http://www.w3.org/2000/svg" width="300" height="200">
+    const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
     ${svgElement}
     <text x="${x}" y="${y}" font-size="50" text-anchor="middle" fill="${textColor}">${text}</text>
 
