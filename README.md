@@ -18,3 +18,5 @@ this will be ran through the terminal using node.
 ## usage
 This project will be use information inputed by the user to create a logo.
 
+## Link
+https://app.screencastify.com/v3/watch/lT4kCF5pB6j06E51fcaM
